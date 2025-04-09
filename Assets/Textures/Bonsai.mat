@@ -120,8 +120,8 @@ Material:
     - _DstBlend: 10
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
-    - _FresnelPower: 1
-    - _GlitchFrequency: 0.02
+    - _FresnelPower: 2
+    - _GlitchFrequency: 0.05
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0

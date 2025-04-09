@@ -135,8 +135,8 @@ Material:
     - _DstBlend: 10
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
-    - _FresnelPower: 1
-    - _GlitchFrequency: 0.02
+    - _FresnelPower: 2
+    - _GlitchFrequency: 0.05
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
@@ -155,7 +155,7 @@ Material:
     - _WorkflowMode: 1
     - _ZTest: 4
     - _ZWrite: 0
-    - _ZWriteControl: 2
+    - _ZWriteControl: 0
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
